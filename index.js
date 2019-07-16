@@ -1,5 +1,5 @@
 const fs = require('fs');
-iojoj
+
 /**
  * @param {string[]} set1
  * @param {string[]} set2
